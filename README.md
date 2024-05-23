@@ -1,4 +1,4 @@
-<img src="https://cwmkt.com.br/wp-content/uploads/2024/04/logo_github.png" width="240" />
+<img align="center" src="https://cwmkt.com.br/wp-content/uploads/2024/04/logo_github.png" width="240" />
 
 <p align="center">Seja bem-vindo a Comunidade HubConnect🔥</p>
 
